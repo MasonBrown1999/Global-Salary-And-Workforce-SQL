@@ -3,7 +3,6 @@
 This repository contains the SQL backbone for an **interactive Tableau dashboard** analyzing global salary and workforce trends.  
 It includes KPI cards, salary trends, top job titles, geographic heatmaps, experience/size breakdowns, remote work patterns, and drill-down views.
 
-#Dashboard
 View Dashboard here- https://tinyurl.com/yzpcrymb
 ## 🗂 SQL Features
 - **Data model & schema** for the `ds_salaries` dataset.
